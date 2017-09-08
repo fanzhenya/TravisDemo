@@ -10,5 +10,5 @@ class Dummy:
         return i - j
 
     def mul(self, i, j):
-        return i * j;
+        return i * j + 1
 
